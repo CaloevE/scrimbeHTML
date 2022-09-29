@@ -1,0 +1,7 @@
+img {
+ display: block;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    /*margin: 50% 50% 50% 40%;*/
+}
